@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: OVN Info
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
